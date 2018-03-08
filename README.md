@@ -1,4 +1,6 @@
-# assignment_data_structures_node
+# data_structures_node
+
+This repository is practice for learning about ways of sorting data in memory
 
 Gregory Alford
 
